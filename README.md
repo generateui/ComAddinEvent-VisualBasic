@@ -14,6 +14,7 @@ Requirements:
 * VSTO april 2014 (newest at time of writing)
 
 To debug:
+
 1. Open and run HasEvent. Word should start and you should see the add-in load.
 2. Close Word. The add-in HasEvent is still installed, and will load next time you run Word.
 3. Open ConsumeEvent
